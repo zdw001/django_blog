@@ -1,0 +1,229 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"getcoffee\tscript"
+			],
+			[
+				"c",
+				"console"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"con",
+				"Content-Type"
+			],
+			[
+				"my",
+				"myWriteStream"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/webapp/django/blog"
+	],
+	"file_history":
+	[
+		"/C/webapp/angular/tsSetup/archive.json",
+		"/C/webapp/angular/tsSetup/tsconfig.json",
+		"/C/webapp/angular/tsSetup/package.json",
+		"/C/webapp/angular/tsSetup/webpack.config.js",
+		"/C/webapp/tsSetup/tsSetup/dist/main.js",
+		"/C/webapp/tsSetup/tsSetup/src/main.ts",
+		"/C/webapp/tsSetup/tsSetup/dist/bundle.js",
+		"/C/webapp/tsSetup/tsSetup/src/coffee/getcoffee.ts",
+		"/C/webapp/tsSetup/tsSetup/index.html",
+		"/C/webapp/node/to_do/public/views/todo.ejs",
+		"/C/webapp/node/to_do/public/views/to-do.ejs",
+		"/C/webapp/node/to_do/package.json",
+		"/C/webapp/node/views/contact.ejs",
+		"/C/webapp/node/app.js",
+		"/C/webapp/node/assets/style.css",
+		"/C/webapp/node/views/index.ejs",
+		"/C/webapp/node/404.html",
+		"/C/webapp/node/views/profile.ejs",
+		"/C/webapp/node/contact.html",
+		"/C/webapp/node/index.html",
+		"/C/webapp/node/views/partials/nav.ejs",
+		"/C/webapp/node/views/partials/index.ejs",
+		"/C/webapp/node/package.json",
+		"/C/webapp/node/readme.txt",
+		"/C/webapp/node/stuff/writeme.txt"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "blog.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
