@@ -14,24 +14,12 @@ Including another URLconf
     2. Import the include() function: from django.conf.urls import url, include
     3. Add a URL to urlpatterns:  url(r'^blog/', include(blog_urls))
 """
-from django.conf.urls import url
+from django.conf.urls import include, url
 from django.contrib import admin
 
 # from posts import views
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
-
-    # two ways to map URLs when using function based views
- #    url(r'^posts/$', views.post_home), # this is less preferred
- #    """
- #    when you have multiple apps being imported, this will cause problems. i.e.
-
- #    from users import views
- #    from posts import views
-
-	# django won't know which view we are referring to in our URL
- #    """
-
-    url(r'^posts/$', "posts.views.post_home"), # this is better because it's more specific
+    url(r'^posts/', include("posts.urls", namespace='posts')), 
 ]
