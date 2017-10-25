@@ -19,9 +19,9 @@ urlpatterns = [
 
 	# django won't know which view we are referring to in our URL
 	#    """
-	url(r'^$', post_list),
+	url(r'^$', post_list, name='list'),
     url(r'^create/$', post_create), # this is better because it's more specific
     url(r'^(?P<id>\d+)/$', post_detail, name='detail'),
     url(r'^(?P<id>\d+)/edit/$', post_update, name='update'),
-    url(r'^delete/$', post_delete),
+    url(r'^(?P<id>\d+)/delete/$', post_delete),
 ]
