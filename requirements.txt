@@ -1,0 +1,4 @@
+Django==1.9
+olefile==0.44
+Pillow==4.3.0
+virtualenv==15.1.0
