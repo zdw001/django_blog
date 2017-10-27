@@ -4,8 +4,8 @@ from .models import Post
 
 class PostModelAdmin(admin.ModelAdmin):
 	list_display = ["title", "timestamp", "updated"]
-	list_display_links = ["updated"]
-	list_editable = ["title"]
+	list_display_links = ["title"]
+	# list_editable = ["title"]
 	list_filter = ["updated", "timestamp"]
 	search_fields = ["title", "content"]
 	class Meta:
